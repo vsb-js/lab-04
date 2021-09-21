@@ -1,6 +1,6 @@
 // MOVE ALL FUNCTIONS and array into separate files in folders `utils` and `data`
 // You should have only one implementation of every function.
-// Line 66+ should work same after your work 
+// Line 81+ should work same after your work 
 
 
 const componentToHex = (c) => {
